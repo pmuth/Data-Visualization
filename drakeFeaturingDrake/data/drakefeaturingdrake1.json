@@ -2,37 +2,37 @@
 
 	"drakeSongs": [
 		{
-		"song": "No Lie",	
-		"mainArtist": "2 Chainz",
-		"feature": "Drake",
+		"song": 		"No Lie",	
+		"mainArtist": 	"2 Chainz",
+		"feature": 		"Drake",
 		"snippets": [
 
-				{"artist": "2 Chainz", "startTime":   7, "endTime":  58 },
-	   			{"artist": "Drake", 	"startTime":  59, "endTime": 161 },
-	   			{"artist": "2 Chainz", "startTime": 162, "endTime": 190 },
-	      		{"artist": "Drake", 	"startTime": 191, "endTime": 220 },
-	      		{"artist": "2 Chainz", "startTime": 229, "endTime": 236 }
+				{"artist": "2 Chainz", 	"startTime":   7, "endTime":  58 },
+				{"artist": "Drake", 	"startTime":  59, "endTime": 161 },
+				{"artist": "2 Chainz", 	"startTime": 162, "endTime": 190 },
+		  		{"artist": "Drake", 	"startTime": 191, "endTime": 220 },
+		  		{"artist": "2 Chainz", 	"startTime": 229, "endTime": 236 }
 			]
 
 		},
 		{		
-		"song": "Amen",
-		"mainArtist": "Meek Mill",
-		"feature": "Drake",
+		"song": 		"Amen",
+		"mainArtist": 	"Meek Mill",
+		"feature": 		"Drake",
 		"snippets": [
 
 				{"artist": "Meek Mill",  "startTime": 0,    "endTime": 120 },
-	   			{"artist": "Drake", 	 "startTime": 121,  "endTime": 173 },
-	   			{"artist": "Meek Mill",  "startTime": 174,  "endTime": 261 }
+				{"artist": "Drake", 	 "startTime": 121,  "endTime": 173 },
+				{"artist": "Meek Mill",  "startTime": 174,  "endTime": 261 }
 
 			]
 
 		},
 				{		
 		
-		"song": "Stay Schemin'",
-		"mainArtist": "Rick Ross",
-		"feature": "Drake & French Montana",
+		"song": 		"Stay Schemin'",
+		"mainArtist": 	"Rick Ross",
+		"feature":		"Drake & French Montana",
 		"snippets": [
 
 				{"artist": "Rick Ross",  		"startTime":  13, "endTime":  24 },
@@ -42,13 +42,13 @@
 	   			{"artist": "Rick Ross",  		"startTime": 238, "endTime": 250 },
 	   			{"artist": "Rick Ross", 	 	"startTime": 260, "endTime": 261 },
 	   			
-	   			{"artist": "French Montana",  	"startTime":  25, "endTime":  46 },
-	   			{"artist": "French Montana", 	"startTime":  84, "endTime":  95 },
-	   			{"artist": "French Montana",  	"startTime": 190, "endTime": 237 },
-	   			{"artist": "French Montana", 	"startTime": 250, "endTime": 260 },
+	   			{"artist": "French Montana",	"startTime":  25, "endTime":  46 },
+	   			{"artist": "French Montana",	"startTime":  84, "endTime":  95 },
+	   			{"artist": "French Montana",	"startTime": 190, "endTime": 237 },
+	   			{"artist": "French Montana",	"startTime": 250, "endTime": 260 },
 	   			
-	   			{"artist": "Drake",  			"startTime":  96, "endTime": 152 },
-	   			{"artist": "Drake", 	 		"startTime": 155, "endTime": 180 }
+	   			{"artist": "Drake",				"startTime":  96, "endTime": 152 },
+	   			{"artist": "Drake",				"startTime": 155, "endTime": 180 }
 
 			]
 
