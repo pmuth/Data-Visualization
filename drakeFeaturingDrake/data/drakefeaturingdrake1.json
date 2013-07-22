@@ -1,0 +1,228 @@
+{
+
+	"drakeSongs": [
+		{
+		"song": "No Lie",	
+		"mainArtist": "2 Chainz",
+		"feature": "Drake",
+		"snippets": [
+
+				{"artist": "2 Chainz", "startTime":   7, "endTime":  58 },
+	   			{"artist": "Drake", 	"startTime":  59, "endTime": 161 },
+	   			{"artist": "2 Chainz", "startTime": 162, "endTime": 190 },
+	      		{"artist": "Drake", 	"startTime": 191, "endTime": 220 },
+	      		{"artist": "2 Chainz", "startTime": 229, "endTime": 236 }
+			]
+
+		},
+		{		
+		"song": "Amen",
+		"mainArtist": "Meek Mill",
+		"feature": "Drake",
+		"snippets": [
+
+				{"artist": "Meek Mill",  "startTime": 0,    "endTime": 120 },
+	   			{"artist": "Drake", 	 "startTime": 121,  "endTime": 173 },
+	   			{"artist": "Meek Mill",  "startTime": 174,  "endTime": 261 }
+
+			]
+
+		},
+				{		
+		
+		"song": "Stay Schemin'",
+		"mainArtist": "Rick Ross",
+		"feature": "Drake & French Montana",
+		"snippets": [
+
+				{"artist": "Rick Ross",  		"startTime":  13, "endTime":  24 },
+	   			{"artist": "Rick Ross", 	 	"startTime":  48, "endTime":  83 },
+	   			{"artist": "Rick Ross",  		"startTime": 154, "endTime": 154 },
+	   			{"artist": "Rick Ross", 	 	"startTime": 180, "endTime": 190 },
+	   			{"artist": "Rick Ross",  		"startTime": 238, "endTime": 250 },
+	   			{"artist": "Rick Ross", 	 	"startTime": 260, "endTime": 261 },
+	   			
+	   			{"artist": "French Montana",  	"startTime":  25, "endTime":  46 },
+	   			{"artist": "French Montana", 	"startTime":  84, "endTime":  95 },
+	   			{"artist": "French Montana",  	"startTime": 190, "endTime": 237 },
+	   			{"artist": "French Montana", 	"startTime": 250, "endTime": 260 },
+	   			
+	   			{"artist": "Drake",  			"startTime":  96, "endTime": 152 },
+	   			{"artist": "Drake", 	 		"startTime": 155, "endTime": 180 }
+
+			]
+
+		},
+		{		
+		
+		"song": "Pop That",
+		"mainArtist": "French Montana",
+		"feature": "Drake, Rick Ross & Lil Wayne",
+		"snippets": [
+
+				{"artist": "Rick Ross",  		"startTime":   4, "endTime":   5 },
+	   			{"artist": "Rick Ross", 	 	"startTime":  10, "endTime":  11 },
+	   			{"artist": "Rick Ross",  		"startTime":  91, "endTime": 146 },
+	   			
+	   			{"artist": "French Montana", 	"startTime":   6, "endTime":   7 },
+	   			{"artist": "French Montana", 	"startTime":  12, "endTime":  28 },
+	   			{"artist": "French Montana", 	"startTime":  31, "endTime":  83 },
+	   			{"artist": "French Montana", 	"startTime":  89, "endTime":  89 },
+	   			{"artist": "French Montana", 	"startTime": 151, "endTime": 160 },
+	   			{"artist": "French Montana", 	"startTime": 218, "endTime": 218 },
+	   			{"artist": "French Montana", 	"startTime": 221, "endTime": 229 },
+	   			{"artist": "French Montana", 	"startTime": 288, "endTime": 288 },
+	   			{"artist": "French Montana", 	"startTime": 292, "endTime": 292 },
+
+	   			{"artist": "Drake",  			"startTime":   7, "endTime":  10 },
+	   			{"artist": "Drake", 	 		"startTime": 161, "endTime": 215 },
+	   			
+	   			{"artist": "Lil Wayne",  		"startTime": 229, "endTime": 287 },
+	   			{"artist": "Lil Wayne", 		"startTime": 293, "endTime": 300 }
+
+			]
+
+		},
+
+		{		
+		
+		"song": "Fuckin' Problems",
+		"mainArtist": "A$AP Rocky",
+		"feature": "2 Chainz, Drake & Kendrick Lamar",
+		"snippets": [
+
+				{"artist": "2 Chainz",  		"startTime":  21, "endTime":  36 },
+	   			{"artist": "2 Chainz", 	 		"startTime":  81, "endTime":  95 },
+	   			{"artist": "2 Chainz",  		"startTime": 141, "endTime": 155 },
+	   			{"artist": "2 Chainz",  		"startTime": 201, "endTime": 215 },
+	   			
+	   			{"artist": "Drake", 			"startTime":  37, "endTime":  38 },
+	   			{"artist": "Drake", 			"startTime":  95, "endTime":  98 },
+	   			{"artist": "Drake", 			"startTime": 100, "endTime": 140 },
+	   			{"artist": "Drake", 			"startTime": 156, "endTime": 157 },
+	   			{"artist": "Drake", 			"startTime": 216, "endTime": 217 },
+
+	   			{"artist": "A$AP Rocky", 		"startTime":  39, "endTime":  80 },
+	   			{"artist": "A$AP Rocky", 		"startTime":  99, "endTime":  99 },
+	   			{"artist": "A$AP Rocky", 		"startTime": 151, "endTime": 155 },
+	   			{"artist": "A$AP Rocky", 		"startTime": 158, "endTime": 160 },
+	   			{"artist": "A$AP Rocky", 		"startTime": 211, "endTime": 215 },
+				{"artist": "A$AP Rocky", 		"startTime": 218, "endTime": 220 },
+
+	   			{"artist": "Kendrick Lamar", 	"startTime": 161, "endTime": 200 }
+			]
+
+		},
+
+		{		
+		
+		"song": "Poetic Justice",
+		"mainArtist": "Kendrick Lamar",
+		"feature": "Drake",
+		"snippets": [
+
+				{"artist": "Kendrick Lamar",  	"startTime":  22, "endTime": 107 },
+	   			{"artist": "Kendrick Lamar",	"startTime": 163, "endTime": 259 },
+	   			
+	   			{"artist": "Drake",  			"startTime": 108, "endTime": 162 }
+			]
+
+		},
+
+		{		
+		
+		"song": "What's My Name",
+		"mainArtist": "Rihanna",
+		"feature": "Drake",
+		"snippets": [
+
+				{"artist": "Rihanna",  			"startTime":   0, "endTime":  19 },
+	   			{"artist": "Rihanna",			"startTime":  58, "endTime": 230 },
+	   			
+	   			{"artist": "Drake",  			"startTime":  20, "endTime":  57 }
+			]
+
+		},
+
+						{		
+		
+		"song": "I'm On One",
+		"mainArtist": "DJ Khaled",
+		"feature": "Rick Ross, Drake & Lil Wayne",
+		"snippets": [
+
+				{"artist": "Drake",  			"startTime":   0, "endTime": 101 },
+	   			{"artist": "Drake", 	 		"startTime": 153, "endTime": 191 },
+	   			{"artist": "Drake",  			"startTime": 243, "endTime": 279 },
+	   			
+	   			{"artist": "Rick Ross", 		"startTime": 101, "endTime": 151 },
+	   			
+	   			{"artist": "Lil Wayne", 		"startTime": 192, "endTime": 242 }
+
+			]
+
+		},
+
+		{		
+		
+		"song": "Love Me",
+		"mainArtist": "Lil Wayne",
+		"feature": "Future & Drake",
+		"snippets": [
+
+				{"artist": "Future", 	 		"startTime":   0, "endTime":  14 },
+	   			{"artist": "Future", 	 		"startTime":  18, "endTime":  20 },
+	   			{"artist": "Future",  			"startTime":  25, "endTime":  27 },
+	   			{"artist": "Future",  			"startTime":  78, "endTime":  90 },
+	   			{"artist": "Future", 	 		"startTime":  96, "endTime":  97 },
+	   			{"artist": "Future", 	 		"startTime": 154, "endTime": 168 },
+	   			{"artist": "Future",  			"startTime": 172, "endTime": 175 },
+	   			{"artist": "Future",  			"startTime": 181, "endTime": 183 },
+	   			{"artist": "Future", 	 		"startTime": 216, "endTime": 225 },
+	   			{"artist": "Future", 	 		"startTime": 228, "endTime": 229 },
+	   			{"artist": "Future",  			"startTime": 234, "endTime": 235 },
+	   			
+	   			{"artist": "Drake", 			"startTime":  15, "endTime":  17 },
+	   			{"artist": "Drake", 			"startTime":  21, "endTime":  24 },
+	   			{"artist": "Drake", 			"startTime":  28, "endTime":  32 },
+	   			{"artist": "Drake", 			"startTime":  91, "endTime":  95 },
+	   			{"artist": "Drake", 			"startTime":  98, "endTime": 100 },
+	   			{"artist": "Drake", 			"startTime": 169, "endTime": 170 },
+	   			{"artist": "Drake", 			"startTime": 175, "endTime": 178 },
+	   			{"artist": "Drake", 			"startTime": 230, "endTime": 233 },
+	   			{"artist": "Drake", 			"startTime": 236, "endTime": 239 },
+	   			{"artist": "Drake", 			"startTime": 244, "endTime": 248 },
+
+	   			{"artist": "Lil Wayne", 		"startTime":  33, "endTime":  77 },
+	   			{"artist": "Lil Wayne", 		"startTime": 110, "endTime": 153 },
+	   			{"artist": "Lil Wayne", 		"startTime": 179, "endTime": 181 },
+	   			{"artist": "Lil Wayne", 		"startTime": 183, "endTime": 214 },
+	   			{"artist": "Lil Wayne", 		"startTime": 226, "endTime": 227 },
+	   			{"artist": "Lil Wayne", 		"startTime": 240, "endTime": 243 }
+			]
+
+		},
+
+		{		
+		
+		"song": "No New Friends",
+		"mainArtist": "DJ Khaled",
+		"feature": "Rick Ross, Drake & Lil Wayne",
+		"snippets": [
+
+				{"artist": "Drake",  			"startTime":   0, "endTime": 121 },
+	   			{"artist": "Drake", 	 		"startTime": 158, "endTime": 200 },
+	   			{"artist": "Drake",  			"startTime": 233, "endTime": 272 },
+	   			
+	   			{"artist": "Lil Wayne", 		"startTime": 201, "endTime": 232 },
+	   			
+	   			{"artist": "Rick Ross", 		"startTime": 122, "endTime": 157 },
+	   			
+	   			{"artist": "Future", 			"startTime": 277, "endTime": 307 }
+	   			]
+
+		}
+
+
+	]
+}
