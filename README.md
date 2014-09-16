@@ -1,1 +1,2 @@
 [Drake Featuring Drake](http://blog.patrickmuth.com/post/56169100531/drake-featuring-drake-july-2013-the-most) - Does Drake really dominate the songs he features on as much as he thinks?
+[Forming Like Voltron](http://blog.patrickmuth.com/post/96919151570/forming-like-voltron-september-2014) - Lyrical Breakdown of Wu-Tang Clan's "Enter The Wu-Tang: (36 Chambers)"
