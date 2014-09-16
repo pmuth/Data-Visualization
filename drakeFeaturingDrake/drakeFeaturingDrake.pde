@@ -20,7 +20,7 @@ void setup() {
   canvas = createGraphics(canvas_width, canvas_height);
   calculateResizeRatio(); 
    
-   size(550,450);
+   size(canvas_width/5,canvas_height/5);
   canvas.beginDraw();
   
   canvas.colorMode(HSB, 360, 100, 100);

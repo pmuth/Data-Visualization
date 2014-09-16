@@ -1,0 +1,389 @@
+{
+
+	"enterTheWutang": [
+		{
+		"song": "Bring Da Ruckus",	
+		"lengthMinute": 4,
+		"lengthSeconds": 10,
+		"snippets": [
+
+				{"artist": "Shaolin", 	"startTimeMinute":   0, "startTimeSecond": 0, "endTimeMinute":  0, "endTimeSecond": 19, "type": "speaking"},
+				{"artist": "Shaolin", 	"startTimeMinute":   1, "startTimeSecond": 32, "endTimeMinute":  1, "endTimeSecond": 51, "type": "speaking"},
+				{"artist": "Shaolin", 	"startTimeMinute":   3, "startTimeSecond": 39, "endTimeMinute":  3, "endTimeSecond": 41, "type": "speaking"},
+
+				{"artist": "RZA", 	"startTimeMinute":   0, "startTimeSecond": 19, "endTimeMinute":  0, "endTimeSecond": 29, "type": "chorus"},
+				{"artist": "RZA", 	"startTimeMinute":   1, "startTimeSecond": 30, "endTimeMinute":  1, "endTimeSecond": 51, "type": "chorus"},
+				{"artist": "RZA", 	"startTimeMinute":   2, "startTimeSecond": 30, "endTimeMinute":  2, "endTimeSecond": 40, "type": "chorus"},
+				{"artist": "RZA", 	"startTimeMinute":   3, "startTimeSecond": 25, "endTimeMinute":  3, "endTimeSecond": 30, "type": "chorus"},
+
+				{"artist": "Ghostface", "startTimeMinute":   0, "startTimeSecond": 29, "endTimeMinute":  0, "endTimeSecond": 56, "type": "rap"},
+
+				{"artist": "Raekwon", "startTimeMinute":   0, "startTimeSecond": 57, "endTimeMinute":  1, "endTimeSecond": 29, "type": "rap"},
+
+				{"artist": "Inspectah Deck", "startTimeMinute":   1, "startTimeSecond": 52, "endTimeMinute":  2, "endTimeSecond": 30, "type": "rap"},
+				{"artist": "Inspectah Deck", "startTimeMinute":   3, "startTimeSecond": 42, "endTimeMinute":  3, "endTimeSecond": 51, "type": "rap"},
+
+				{"artist": "GZA", "startTimeMinute":   2, "startTimeSecond": 41, "endTimeMinute":  3, "endTimeSecond": 25, "type": "rap"},
+				{"artist": "GZA", "startTimeMinute":   3, "startTimeSecond": 42, "endTimeMinute":  3, "endTimeSecond": 51, "type": "rap"}
+
+			]
+
+		},
+
+		{
+		"song": "Shame on a Nigga",	
+		"lengthMinute": 2,
+		"lengthSeconds": 57,
+		"snippets": [
+
+				{"artist": "Shaolin", 	"startTimeMinute":   0, "startTimeSecond": 0, "endTimeMinute":  0, "endTimeSecond": 4, "type": "speaking"},
+
+				{"artist": "Ghostface", 	"startTimeMinute":   0, "startTimeSecond": 6, "endTimeMinute":  0, "endTimeSecond": 7, "type": "rap"},
+
+				{"artist": "Raekwon", 	"startTimeMinute":   0, "startTimeSecond": 5, "endTimeMinute":  0, "endTimeSecond": 20, "type": "rap"},
+				{"artist": "Raekwon", 	"startTimeMinute":   0, "startTimeSecond": 42, "endTimeMinute":  0, "endTimeSecond": 43, "type": "rap"},
+				{"artist": "Raekwon", 	"startTimeMinute":   1, "startTimeSecond": 21, "endTimeMinute":  1, "endTimeSecond": 39, "type": "rap"},
+			
+				{"artist": "Method Man", 	"startTimeMinute":   0, "startTimeSecond": 8, "endTimeMinute":  0, "endTimeSecond": 9, "type": "rap"},
+				{"artist": "Method Man", 	"startTimeMinute":   0, "startTimeSecond": 52, "endTimeMinute":  1, "endTimeSecond": 15, "type": "rap"},
+
+				{"artist": "ODB", 	"startTimeMinute":   0, "startTimeSecond": 9, "endTimeMinute":  0, "endTimeSecond": 36, "type": "chorus"},
+				{"artist": "ODB", 	"startTimeMinute":   0, "startTimeSecond": 37, "endTimeMinute":  0, "endTimeSecond": 52, "type": "rap"},
+				{"artist": "ODB", 	"startTimeMinute":   1, "startTimeSecond": 16, "endTimeMinute":  1, "endTimeSecond": 20, "type": "chorus"},
+				{"artist": "ODB", 	"startTimeMinute":   1, "startTimeSecond": 40, "endTimeMinute":  1, "endTimeSecond": 48, "type": "chorus"},
+				{"artist": "ODB", 	"startTimeMinute":   1, "startTimeSecond": 48, "endTimeMinute":  2, "endTimeSecond": 30, "type": "rap"}
+
+			]
+
+
+
+		},
+
+		{
+		"song": "Clan in da Front",	
+		"lengthMinute": 4,
+		"lengthSeconds": 33,
+		"snippets": [
+
+			{"artist": "RZA", 	"startTimeMinute":   0, "startTimeSecond": 0, "endTimeMinute":  0, "endTimeSecond": 39, "type": "speaking"},
+			{"artist": "RZA", 	"startTimeMinute":   0, "startTimeSecond": 40, "endTimeMinute":  1, "endTimeSecond": 19, "type": "rap"},
+
+			{"artist": "Shaolin", 	"startTimeMinute":   1, "startTimeSecond": 20, "endTimeMinute":  1, "endTimeSecond": 20, "type": "speaking"},
+
+			{"artist": "GZA", 	"startTimeMinute":   1, "startTimeSecond": 21, "endTimeMinute":  1, "endTimeSecond": 31, "type": "chorus"},
+			{"artist": "GZA", 	"startTimeMinute":   1, "startTimeSecond": 32, "endTimeMinute":  2, "endTimeSecond": 20, "type": "rap"},
+			{"artist": "GZA", 	"startTimeMinute":   2, "startTimeSecond": 21, "endTimeMinute":  2, "endTimeSecond": 31, "type": "chorus"},
+			{"artist": "GZA", 	"startTimeMinute":   2, "startTimeSecond": 32, "endTimeMinute":  3, "endTimeSecond": 41, "type": "rap"},
+			{"artist": "GZA", 	"startTimeMinute":   3, "startTimeSecond": 46, "endTimeMinute":  4, "endTimeSecond": 8, "type": "rap"},
+			{"artist": "GZA", 	"startTimeMinute":   4, "startTimeSecond": 24, "endTimeMinute":  4, "endTimeSecond": 33, "type": "rap"}
+			]
+
+
+
+		},
+
+				{
+		"song": "Wu-Tang: 7th Chamber",	
+		"lengthMinute": 6,
+		"lengthSeconds": 5,
+		"snippets": [
+
+
+			{"artist": "Shaolin", 	"startTimeMinute":   0, "startTimeSecond": 0, "endTimeMinute":  0, "endTimeSecond": 3, "type": "speaking"},
+
+			{"artist": "Raekwon", 	"startTimeMinute":   0, "startTimeSecond": 4, "endTimeMinute":  0, "endTimeSecond": 8, "type": "speaking"},
+			{"artist": "Raekwon", 	"startTimeMinute":   0, "startTimeSecond": 11, "endTimeMinute":  0, "endTimeSecond": 12, "type": "speaking"},
+			{"artist": "Raekwon", 	"startTimeMinute":   0, "startTimeSecond": 18, "endTimeMinute":  0, "endTimeSecond": 21, "type": "speaking"},
+			{"artist": "Raekwon", 	"startTimeMinute":   1, "startTimeSecond": 3, "endTimeMinute":  1, "endTimeSecond": 6, "type": "speaking"},
+			{"artist": "Raekwon", 	"startTimeMinute":   1, "startTimeSecond": 14, "endTimeMinute":  1, "endTimeSecond": 16, "type": "speaking"},
+			{"artist": "Raekwon", 	"startTimeMinute":   1, "startTimeSecond": 20, "endTimeMinute":  1, "endTimeSecond": 20, "type": "speaking"},
+			{"artist": "Raekwon", 	"startTimeMinute":   1, "startTimeSecond": 41, "endTimeMinute":  1, "endTimeSecond": 43, "type": "speaking"},
+
+			{"artist": "Method Man", 	"startTimeMinute":   0, "startTimeSecond": 14, "endTimeMinute":  0, "endTimeSecond": 22, "type": "speaking"},
+			{"artist": "Method Man", 	"startTimeMinute":   0, "startTimeSecond": 48, "endTimeMinute":  0, "endTimeSecond": 48, "type": "speaking"},
+			{"artist": "Method Man", 	"startTimeMinute":   1, "startTimeSecond": 12, "endTimeMinute":  1, "endTimeSecond": 13, "type": "speaking"},
+			{"artist": "Method Man", 	"startTimeMinute":   1, "startTimeSecond": 44, "endTimeMinute":  1, "endTimeSecond": 51, "type": "speaking"},
+			{"artist": "Method Man", 	"startTimeMinute":   1, "startTimeSecond": 57, "endTimeMinute":  1, "endTimeSecond": 57, "type": "speaking"},
+
+			{"artist": "Inspectah Deck", 	"startTimeMinute":   1, "startTimeSecond": 30, "endTimeMinute":  1, "endTimeSecond": 40, "type": "speaking"},
+
+			{"artist": "Ghostface", 	"startTimeMinute":   0, "startTimeSecond": 26, "endTimeMinute":  0, "endTimeSecond": 48, "type": "speaking"},
+			{"artist": "Ghostface", 	"startTimeMinute":   0, "startTimeSecond": 51, "endTimeMinute":  1, "endTimeSecond": 19, "type": "speaking"},
+
+			{"artist": "U-God", 	"startTimeMinute":   0, "startTimeSecond": 45, "endTimeMinute":  0, "endTimeSecond": 46, "type": "speaking"},
+			{"artist": "U-God", 	"startTimeMinute":   0, "startTimeSecond": 49, "endTimeMinute":  0, "endTimeSecond": 50, "type": "speaking"},
+			{"artist": "U-God", 	"startTimeMinute":   0, "startTimeSecond": 51, "endTimeMinute":  0, "endTimeSecond": 53, "type": "speaking"},
+			{"artist": "U-God", 	"startTimeMinute":   0, "startTimeSecond": 56, "endTimeMinute":  0, "endTimeSecond": 57, "type": "speaking"},
+			{"artist": "U-God", 	"startTimeMinute":   1, "startTimeSecond": 7, "endTimeMinute":  1, "endTimeSecond": 7, "type": "speaking"},
+			{"artist": "U-God", 	"startTimeMinute":   1, "startTimeSecond": 10, "endTimeMinute":  1, "endTimeSecond": 10, "type": "speaking"},
+
+			
+
+			{"artist": "Inspectah Deck", 	"startTimeMinute":   2, "startTimeSecond": 59, "endTimeMinute":  3, "endTimeSecond": 30, "type": "rap"},
+
+			{"artist": "Raekwon", 	"startTimeMinute":   1, "startTimeSecond": 48, "endTimeMinute":  2, "endTimeSecond": 26, "type": "rap"},
+
+			{"artist": "Method Man", 	"startTimeMinute":   2, "startTimeSecond": 26, "endTimeMinute":  2, "endTimeSecond": 53, "type": "rap"},
+
+			{"artist": "Shaolin", 	"startTimeMinute":   2, "startTimeSecond": 57, "endTimeMinute":  2, "endTimeSecond": 57, "type": "speaking"},
+			{"artist": "Shaolin", 	"startTimeMinute":   4, "startTimeSecond": 27, "endTimeMinute":  4, "endTimeSecond": 33, "type": "speaking"},
+			{"artist": "Shaolin", 	"startTimeMinute":   4, "startTimeSecond": 58, "endTimeMinute":  5, "endTimeSecond": 4, "type": "speaking"},
+
+			{"artist": "Ghostface", 	"startTimeMinute":   3, "startTimeSecond": 31, "endTimeMinute":  4, "endTimeSecond": 1, "type": "rap"},
+
+			{"artist": "RZA", 	"startTimeMinute":   4, "startTimeSecond": 1, "endTimeMinute":  4, "endTimeSecond": 27, "type": "rap"},
+
+			{"artist": "ODB", 	"startTimeMinute":   4, "startTimeSecond": 33, "endTimeMinute":  4, "endTimeSecond": 58, "type": "rap"},
+
+			{"artist": "GZA", 	"startTimeMinute":   5, "startTimeSecond": 5, "endTimeMinute":  5, "endTimeSecond": 25, "type": "rap"}
+
+			]
+
+
+
+		},
+
+						{
+		"song": "Can It All Be So Simple",	
+		"lengthMinute": 6,
+		"lengthSeconds": 53,
+		"snippets": [
+
+				{"artist": "RZA", 	"startTimeMinute":   0, "startTimeSecond": 0, "endTimeMinute":  0, "endTimeSecond": 33, "type": "speaking"},
+
+				{"artist": "Raekwon", 	"startTimeMinute":   0, "startTimeSecond": 34, "endTimeMinute":  0, "endTimeSecond": 40, "type": "speaking"},
+				{"artist": "Raekwon", 	"startTimeMinute":   0, "startTimeSecond": 44, "endTimeMinute":  1, "endTimeSecond": 2, "type": "speaking"},
+				{"artist": "Raekwon", 	"startTimeMinute":   5, "startTimeSecond": 15, "endTimeMinute":  5, "endTimeSecond": 17, "type": "speaking"},
+				{"artist": "Raekwon", 	"startTimeMinute":   6, "startTimeSecond": 3, "endTimeMinute":  6, "endTimeSecond": 29, "type": "speaking"},
+				{"artist": "Raekwon", 	"startTimeMinute":   6, "startTimeSecond": 45, "endTimeMinute":  6, "endTimeSecond": 53, "type": "speaking"},
+
+				{"artist": "Method Man", 	"startTimeMinute":   4, "startTimeSecond": 46, "endTimeMinute":  6, "endTimeSecond": 0, "type": "speaking"},
+				{"artist": "Method Man", 	"startTimeMinute":   6, "startTimeSecond": 30, "endTimeMinute":  6, "endTimeSecond": 45, "type": "speaking"},
+				{"artist": "Method Man", 	"startTimeMinute":   6, "startTimeSecond": 49, "endTimeMinute":  6, "endTimeSecond": 49, "type": "speaking"},
+
+
+
+				{"artist": "Raekwon", 	"startTimeMinute":   1, "startTimeSecond": 2, "endTimeMinute":  2, "endTimeSecond": 10, "type": "rap"},
+				{"artist": "Raekwon", 	"startTimeMinute":   2, "startTimeSecond": 12, "endTimeMinute":  2, "endTimeSecond": 14, "type": "rap"},
+				{"artist": "Raekwon", 	"startTimeMinute":   2, "startTimeSecond": 17, "endTimeMinute":  2, "endTimeSecond": 19, "type": "rap"},
+				{"artist": "Raekwon", 	"startTimeMinute":   3, "startTimeSecond": 27, "endTimeMinute":  3, "endTimeSecond": 35, "type": "rap"},
+
+				{"artist": "Ghostface", 	"startTimeMinute":   2, "startTimeSecond": 10, "endTimeMinute":  2, "endTimeSecond": 12, "type": "rap"},
+				{"artist": "Ghostface", 	"startTimeMinute":   2, "startTimeSecond": 14, "endTimeMinute":  2, "endTimeSecond": 16, "type": "rap"},
+				{"artist": "Ghostface", 	"startTimeMinute":   2, "startTimeSecond": 20, "endTimeMinute":  2, "endTimeSecond": 23, "type": "rap"},
+				{"artist": "Ghostface", 	"startTimeMinute":   2, "startTimeSecond": 26, "endTimeMinute":  3, "endTimeSecond": 27, "type": "rap"}
+
+
+			]
+
+
+
+		},
+
+						{
+		"song": "Da Mystery of Chessboxin'",	
+		"lengthMinute": 4,
+		"lengthSeconds": 48,
+		"snippets": [
+
+				{"artist": "Shaolin", 	"startTimeMinute":   0, "startTimeSecond": 0, "endTimeMinute":  0, "endTimeSecond": 16, "type": "speaking"},
+				{"artist": "Shaolin", 	"startTimeMinute":   4, "startTimeSecond": 10, "endTimeMinute":  4, "endTimeSecond": 18, "type": "speaking"},
+				{"artist": "Shaolin", 	"startTimeMinute":   4, "startTimeSecond": 20, "endTimeMinute":  4, "endTimeSecond": 28, "type": "speaking"},
+				{"artist": "Shaolin", 	"startTimeMinute":   4, "startTimeSecond": 36, "endTimeMinute":  4, "endTimeSecond": 38, "type": "speaking"},
+
+				{"artist": "U-God", 	"startTimeMinute":   0, "startTimeSecond": 18, "endTimeMinute":  0, "endTimeSecond": 36, "type": "rap"},
+				{"artist": "Inspectah Deck", 	"startTimeMinute":   0, "startTimeSecond": 36, "endTimeMinute":  1, "endTimeSecond": 3, "type": "rap"},
+				{"artist": "Raekwon", 	"startTimeMinute":   1, "startTimeSecond": 3, "endTimeMinute":  1, "endTimeSecond": 31, "type": "rap"},
+
+				{"artist": "Method Man", 	"startTimeMinute":   1, "startTimeSecond": 32, "endTimeMinute":  1, "endTimeSecond": 40, "type": "chorus"},
+				{"artist": "Method Man", 	"startTimeMinute":   2, "startTimeSecond": 40, "endTimeMinute":  1, "endTimeSecond": 49, "type": "chorus"},
+				{"artist": "Method Man", 	"startTimeMinute":   4, "startTimeSecond": 2, "endTimeMinute":  4, "endTimeSecond": 10, "type": "chorus"},
+
+
+				{"artist": "ODB", 	"startTimeMinute":   1, "startTimeSecond": 32, "endTimeMinute":  2, "endTimeSecond": 40, "type": "rap"},
+
+				{"artist": "Ghostface", 	"startTimeMinute":   2, "startTimeSecond": 49, "endTimeMinute":  3, "endTimeSecond": 20, "type": "rap"},
+
+				{"artist": "Masta Killa", 	"startTimeMinute":   3, "startTimeSecond": 25, "endTimeMinute":  4, "endTimeSecond": 1, "type": "rap"}
+			]
+
+
+
+		},
+
+						{
+		"song": "Wu-Tang Clan Ain't Nothing ta Fuck Wit",	
+		"lengthMinute": 3,
+		"lengthSeconds": 36,
+		"snippets": [
+				{"artist": "RZA", 	"startTimeMinute":   0, "startTimeSecond": 4, "endTimeMinute":  0, "endTimeSecond": 5, "type": "speaking"},
+				{"artist": "RZA", 	"startTimeMinute":   0, "startTimeSecond": 5, "endTimeMinute":  0, "endTimeSecond": 14, "type": "chorus"},
+				{"artist": "RZA", 	"startTimeMinute":   0, "startTimeSecond": 24, "endTimeMinute":  0, "endTimeSecond": 44, "type": "rap"},
+				{"artist": "RZA", 	"startTimeMinute":   1, "startTimeSecond": 4, "endTimeMinute":  1, "endTimeSecond": 14, "type": "chorus"},
+				{"artist": "RZA", 	"startTimeMinute":   1, "startTimeSecond": 15, "endTimeMinute":  1, "endTimeSecond": 23, "type": "speaking"},
+				{"artist": "RZA", 	"startTimeMinute":   2, "startTimeSecond": 2, "endTimeMinute":  2, "endTimeSecond": 11, "type": "chorus"},
+				{"artist": "RZA", 	"startTimeMinute":   2, "startTimeSecond": 12, "endTimeMinute":  3, "endTimeSecond": 5, "type": "speaking"},
+
+				{"artist": "Inspectah Deck", 	"startTimeMinute":   0, "startTimeSecond": 45, "endTimeMinute":  1, "endTimeSecond": 3, "type": "rap"},
+				{"artist": "Inspectah Deck", 	"startTimeMinute":   0, "startTimeSecond": 45, "endTimeMinute":  1, "endTimeSecond": 3, "type": "rap"},
+
+				{"artist": "Method Man", 	"startTimeMinute":   1, "startTimeSecond": 24, "endTimeMinute":  1, "endTimeSecond": 57, "type": "rap"},
+
+				{"artist": "Shaolin", 	"startTimeMinute":   1, "startTimeSecond": 58, "endTimeMinute":  2, "endTimeSecond": 1, "type": "speaking"},
+				{"artist": "Shaolin", 	"startTimeMinute":   2, "startTimeSecond": 42, "endTimeMinute":  2, "endTimeSecond": 46, "type": "speaking"},
+				{"artist": "Shaolin", 	"startTimeMinute":   2, "startTimeSecond": 52, "endTimeMinute":  2, "endTimeSecond": 52, "type": "speaking"},
+				{"artist": "Shaolin", 	"startTimeMinute":   3, "startTimeSecond": 11, "endTimeMinute":  3, "endTimeSecond": 29, "type": "speaking"}
+			]
+
+
+
+		},
+
+						{
+		"song": "C.R.E.A.M.",	
+		"lengthMinute": 4,
+		"lengthSeconds": 12,
+		"snippets": [
+
+				{"artist": "Raekwon", 	"startTimeMinute":   0, "startTimeSecond": 0, "endTimeMinute":  0, "endTimeSecond": 4, "type": "speaking"},
+				{"artist": "Raekwon", 	"startTimeMinute":   0, "startTimeSecond": 6, "endTimeMinute":  0, "endTimeSecond": 13, "type": "speaking"},
+				{"artist": "Raekwon", 	"startTimeMinute":   0, "startTimeSecond": 17, "endTimeMinute":  0, "endTimeSecond": 26, "type": "speaking"},
+				{"artist": "Raekwon", 	"startTimeMinute":   0, "startTimeSecond": 27, "endTimeMinute":  1, "endTimeSecond": 30, "type": "rap"},
+
+				{"artist": "Method Man", 	"startTimeMinute":   0, "startTimeSecond": 5, "endTimeMinute":  0, "endTimeSecond": 5, "type": "speaking"},
+				{"artist": "Method Man", 	"startTimeMinute":   0, "startTimeSecond": 14, "endTimeMinute":  0, "endTimeSecond": 16, "type": "speaking"},
+				{"artist": "Method Man", 	"startTimeMinute":   0, "startTimeSecond": 21, "endTimeMinute":  0, "endTimeSecond": 27, "type": "speaking"},
+				{"artist": "Method Man", 	"startTimeMinute":   1, "startTimeSecond": 31, "endTimeMinute":  1, "endTimeSecond": 41, "type": "chorus"},
+				{"artist": "Method Man", 	"startTimeMinute":   3, "startTimeSecond": 1, "endTimeMinute":  3, "endTimeSecond": 57, "type": "chorus"},
+
+				{"artist": "Inspectah Deck", 	"startTimeMinute":   1, "startTimeSecond": 42, "endTimeMinute":  3, "endTimeSecond": 1, "type": "rap"},
+
+				{"artist": "ODB", 	"startTimeMinute":   1, "startTimeSecond": 33, "endTimeMinute":  1, "endTimeSecond": 41, "type": "chorus"},
+				{"artist": "ODB", 	"startTimeMinute":   2, "startTimeSecond": 23, "endTimeMinute":  2, "endTimeSecond": 30, "type": "chorus"},
+				{"artist": "ODB", 	"startTimeMinute":   3, "startTimeSecond": 2, "endTimeMinute":  3, "endTimeSecond": 23, "type": "chorus"},
+				{"artist": "ODB", 	"startTimeMinute":   3, "startTimeSecond": 28, "endTimeMinute":  3, "endTimeSecond": 43, "type": "chorus"}
+
+			]
+
+
+
+		},
+
+						{
+		"song": "Method Man",	
+		"lengthMinute": 5,
+		"lengthSeconds": 50,
+		"snippets": [
+
+			{"artist": "Method Man", 	"startTimeMinute":   0, "startTimeSecond": 0, "endTimeMinute":  0, "endTimeSecond": 2, "type": "speaking"},
+			{"artist": "Raekwon", 	"startTimeMinute":   0, "startTimeSecond": 3, "endTimeMinute":  0, "endTimeSecond": 3, "type": "speaking"},
+			{"artist": "Method Man", 	"startTimeMinute":   0, "startTimeSecond": 4, "endTimeMinute":  0, "endTimeSecond": 20, "type": "speaking"},
+			{"artist": "Raekwon", 	"startTimeMinute":   0, "startTimeSecond": 21, "endTimeMinute":  0, "endTimeSecond": 32, "type": "speaking"},
+			{"artist": "Method Man", 	"startTimeMinute":   0, "startTimeSecond": 33, "endTimeMinute":  0, "endTimeSecond": 39, "type": "speaking"},
+			{"artist": "Raekwon", 	"startTimeMinute":   0, "startTimeSecond": 40, "endTimeMinute":  0, "endTimeSecond": 45, "type": "speaking"},
+						{"artist": "Method Man", 	"startTimeMinute":   0, "startTimeSecond": 46, "endTimeMinute":  0, "endTimeSecond": 57, "type": "speaking"},
+			{"artist": "Raekwon", 	"startTimeMinute":   0, "startTimeSecond": 40, "endTimeMinute":  0, "endTimeSecond": 45, "type": "speaking"},
+
+			{"artist": "GZA", 	"startTimeMinute":   1, "startTimeSecond": 10, "endTimeMinute":  1, "endTimeSecond": 21, "type": "speaking"},
+
+			{"artist": "Method Man", 	"startTimeMinute":   1, "startTimeSecond": 21, "endTimeMinute":  1, "endTimeSecond": 30, "type": "chorus"},
+			{"artist": "Method Man", 	"startTimeMinute":   1, "startTimeSecond": 30, "endTimeMinute":  2, "endTimeSecond": 46, "type": "rap"},
+			{"artist": "Method Man", 	"startTimeMinute":   2, "startTimeSecond": 47, "endTimeMinute":  3, "endTimeSecond": 15, "type": "rap"},
+			{"artist": "Method Man", 	"startTimeMinute":   3, "startTimeSecond": 16, "endTimeMinute":  4, "endTimeSecond": 39, "type": "rap"},
+			{"artist": "Method Man", 	"startTimeMinute":   4, "startTimeSecond": 40, "endTimeMinute":  4, "endTimeSecond": 49, "type": "chorus"},
+			{"artist": "Ghostface", 	"startTimeMinute":   5, "startTimeSecond": 6, "endTimeMinute":  5, "endTimeSecond": 29, "type": "speaking"},
+
+			{"artist": "RZA", 	"startTimeMinute":   4, "startTimeSecond": 50, "endTimeMinute":  4, "endTimeSecond": 53, "type": "speaking"},
+
+			{"artist": "Ghostface", 	"startTimeMinute":   4, "startTimeSecond": 54, "endTimeMinute":  4, "endTimeSecond": 57, "type": "speaking"}
+
+			]
+
+
+
+		},
+
+						{
+		"song": "Protect Ya Neck",	
+		"lengthMinute": 4,
+		"lengthSeconds": 52,
+		"snippets": [
+
+			{"artist": "Inspectah Deck", 	"startTimeMinute":   0, "startTimeSecond": 30, "endTimeMinute":   0, "endTimeSecond": 59, "type": "rap"},
+
+			{"artist": "Raekwon", 	"startTimeMinute":   1, "startTimeSecond": 0, "endTimeMinute":  1, "endTimeSecond": 26, "type": "rap"},
+
+			{"artist": "Method Man", 	"startTimeMinute":   1, "startTimeSecond": 27, "endTimeMinute":  2, "endTimeSecond": 0, "type": "rap"},
+
+			{"artist": "U-God", 	"startTimeMinute":   2, "startTimeSecond": 1, "endTimeMinute":  2, "endTimeSecond": 9, "type": "rap"},
+
+			{"artist": "ODB", 	"startTimeMinute":   2, "startTimeSecond": 10, "endTimeMinute":  2, "endTimeSecond": 17, "type": "rap"},
+			{"artist": "ODB", 	"startTimeMinute":   2, "startTimeSecond": 19, "endTimeMinute":  2, "endTimeSecond": 51, "type": "rap"},
+
+			{"artist": "RZA", 	"startTimeMinute":   2, "startTimeSecond": 13, "endTimeMinute":  2, "endTimeSecond": 13, "type": "rap"},
+			{"artist": "RZA", 	"startTimeMinute":   2, "startTimeSecond": 17, "endTimeMinute":  2, "endTimeSecond": 17, "type": "rap"},
+			{"artist": "RZA", 	"startTimeMinute":   3, "startTimeSecond": 24, "endTimeMinute":  3, "endTimeSecond": 56, "type": "rap"},
+			{"artist": "RZA", 	"startTimeMinute":   4, "startTimeSecond": 47, "endTimeMinute":  4, "endTimeSecond": 52, "type": "rap"},
+
+			{"artist": "Ghostface", 	"startTimeMinute":   2, "startTimeSecond": 51, "endTimeMinute":  3, "endTimeSecond": 24, "type": "rap"},
+
+			{"artist": "GZA", 	"startTimeMinute":   3, "startTimeSecond": 57, "endTimeMinute":  4, "endTimeSecond": 39, "type": "rap"}
+
+			]
+
+
+
+		},
+
+						{
+		"song": "Tearz",	
+		"lengthMinute": 4,
+		"lengthSeconds": 17,
+		"snippets": [
+
+		{"artist": "RZA", 	"startTimeMinute":   0, "startTimeSecond": 0, "endTimeMinute":  0, "endTimeSecond": 28, "type": "speaking"},
+
+
+		{"artist": "RZA", 	"startTimeMinute":   0, "startTimeSecond": 36, "endTimeMinute":  1, "endTimeSecond": 51, "type": "rap"},
+
+		{"artist": "Ghostface", 	"startTimeMinute":   2, "startTimeSecond": 1, "endTimeMinute":  2, "endTimeSecond": 59, "type": "rap"}
+
+			]
+
+		},
+
+						{
+		"song": "Wu-Tang: 7th Chamber -- Part 2",	
+		"lengthMinute": 6,
+		"lengthSeconds": 9,
+		"snippets": [
+
+		{"artist": "Inspectah Deck", "startTimeMinute":   0, "startTimeSecond": 29, "endTimeMinute":  0, "endTimeSecond": 38, "type": "speaking"},
+		{"artist": "Raekwon", "startTimeMinute":   0, "startTimeSecond": 40, "endTimeMinute":  0, "endTimeSecond": 41, "type": "speaking"},
+		{"artist": "Method Man", "startTimeMinute":   0, "startTimeSecond": 42, "endTimeMinute":  0, "endTimeSecond": 46, "type": "speaking"},
+		{"artist": "Ghostface", "startTimeMinute":   0, "startTimeSecond": 42, "endTimeMinute":  0, "endTimeSecond": 43, "type": "speaking"},
+
+		{"artist": "GZA", 			 "startTimeMinute":   0, "startTimeSecond": 0, "endTimeMinute":  0, "endTimeSecond": 19, "type": "rap"},
+		{"artist": "Raekwon", 		 "startTimeMinute":   0, "startTimeSecond": 46, "endTimeMinute":  1, "endTimeSecond": 22, "type": "rap"},
+		{"artist": "Method Man", 	 "startTimeMinute":   1, "startTimeSecond": 22, "endTimeMinute":  1, "endTimeSecond": 50, "type": "rap"},
+		{"artist": "Inspectah Deck", "startTimeMinute":   1, "startTimeSecond": 51, "endTimeMinute":  2, "endTimeSecond": 24, "type": "rap"},
+		{"artist": "Ghostface", "startTimeMinute":   2, "startTimeSecond": 25, "endTimeMinute":  2, "endTimeSecond": 55, "type": "rap"},
+		{"artist": "RZA", "startTimeMinute":   2, "startTimeSecond": 56, "endTimeMinute":  3, "endTimeSecond": 22, "type": "rap"},
+		{"artist": "ODB", "startTimeMinute":   3, "startTimeSecond": 25, "endTimeMinute":  3, "endTimeSecond": 54, "type": "rap"},
+		{"artist": "GZA", "startTimeMinute":   3, "startTimeSecond": 58, "endTimeMinute":  4, "endTimeSecond": 21, "type": "rap"},
+
+		{"artist": "Method Man", 	 "startTimeMinute":   5, "startTimeSecond": 12, "endTimeMinute":  5, "endTimeSecond": 14, "type": "speaking"},
+		{"artist": "Ghostface", 	 "startTimeMinute":   5, "startTimeSecond": 15, "endTimeMinute":  5, "endTimeSecond": 15, "type": "speaking"},
+
+		{"artist": "Shaolin", 	 "startTimeMinute":   5, "startTimeSecond": 54, "endTimeMinute":  6, "endTimeSecond": 5, "type": "speaking"},
+		{"artist": "RZA", 	 "startTimeMinute":   6, "startTimeSecond": 5, "endTimeMinute":  6, "endTimeSecond": 11, "type": "speaking"}
+
+
+			]
+
+		}
+		
+
+
+	]
+}
